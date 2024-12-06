@@ -7,7 +7,7 @@ Web Development 🌐
 
 Game Development 🎮
 
-AI Learning 🤖
+Machine Learning 🤖
 
 
 
