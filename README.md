@@ -25,3 +25,5 @@ Machine Learning 🤖
 
 ![App Screenshot](https://i.ibb.co.com/ScM4SP1/Screenshot-2024-12-06-230939.png")
 
+![](https://github-readme-stats.vercel.app/api?username=AliAvvvv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=AliAvvvv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)
